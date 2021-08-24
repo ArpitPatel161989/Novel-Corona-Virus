@@ -1,7 +1,7 @@
 # Novel-Corona-Virus
 Analysis of corona virus and forecasting of cases
 
-This analysis has been done on my learning phase when i was trying to play with different datasets on kaggle and perform EDA on it.
+This analysis has been done on my learning phase when i was trying to play with different datasets on kaggle and perform EDA on top of the dataset which i got from kaggle.
 
 Latest can be downloaded from :
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data
